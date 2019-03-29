@@ -1,0 +1,13 @@
+D:\USERS\HazerK\source\repos\sapancaDokumhaneProjesi\sapancaDokumhaneProjesi\bin\Debug\sapancaDokumhaneProjesi.exe.config
+D:\USERS\HazerK\source\repos\sapancaDokumhaneProjesi\sapancaDokumhaneProjesi\bin\Debug\sapancaDokumhaneProjesi.exe
+D:\USERS\HazerK\source\repos\sapancaDokumhaneProjesi\sapancaDokumhaneProjesi\bin\Debug\sapancaDokumhaneProjesi.pdb
+D:\USERS\HazerK\source\repos\sapancaDokumhaneProjesi\sapancaDokumhaneProjesi\obj\Debug\sapancaDokumhaneProjesi.csprojAssemblyReference.cache
+D:\USERS\HazerK\source\repos\sapancaDokumhaneProjesi\sapancaDokumhaneProjesi\obj\Debug\sapancaDokumhaneProjesi.Properties.Resources.resources
+D:\USERS\HazerK\source\repos\sapancaDokumhaneProjesi\sapancaDokumhaneProjesi\obj\Debug\sapancaDokumhaneProjesi.csproj.GenerateResource.cache
+D:\USERS\HazerK\source\repos\sapancaDokumhaneProjesi\sapancaDokumhaneProjesi\obj\Debug\sapancaDokumhaneProjesi.csproj.CoreCompileInputs.cache
+D:\USERS\HazerK\source\repos\sapancaDokumhaneProjesi\sapancaDokumhaneProjesi\obj\Debug\sapancaDokumhaneProjesi.exe
+D:\USERS\HazerK\source\repos\sapancaDokumhaneProjesi\sapancaDokumhaneProjesi\obj\Debug\sapancaDokumhaneProjesi.pdb
+D:\USERS\HazerK\source\repos\sapancaDokumhaneProjesi\sapancaDokumhaneProjesi\bin\Debug\Zen.Barcode.Core.dll
+D:\USERS\HazerK\source\repos\sapancaDokumhaneProjesi\sapancaDokumhaneProjesi\obj\Debug\sapancaDokumhaneProjesi.csproj.CopyComplete
+D:\USERS\HazerK\source\repos\sapancaDokumhaneProjesi\sapancaDokumhaneProjesi\obj\Debug\sapancaDokumhaneProjesi.LoginForm.resources
+D:\USERS\HazerK\source\repos\sapancaDokumhaneProjesi\sapancaDokumhaneProjesi\obj\Debug\sapancaDokumhaneProjesi.MainForm.resources
